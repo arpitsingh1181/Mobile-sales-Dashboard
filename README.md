@@ -56,7 +56,7 @@ Data shown is for demo purposes only.
 Dashboard includes slicers for filtering by brand, mobile model, payment method, and day name.
 
 Screenshot / Demos
-show what the dashbord  looks like. - ![Alt txt](https://github.com/arpitsingh1181/Mobile-sales-Dashboard/blob/main/Screenshot%202025-07-15%20103220.png)
+show what the dashbord  looks like. - 
 Example - ![Dashboard Preview](https://github.com/arpitsingh1181/Mobile-sales-Dashboard/blob/main/Screenshot%202025-07-15%20103220.png)
 📬 Feedback or Contributions
 Feel free to raise issues or contribute enhancements via pull requests!
