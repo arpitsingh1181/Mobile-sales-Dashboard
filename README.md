@@ -30,13 +30,6 @@ Transactions by Payment Method: Pie chart illustrating usage of UPI, Debit Card,
 
 Sales by Mobile Model: Top-performing models include iPhone SE, OnePlus, and Galaxy Note series.
 
-🏷️ Brand Comparison Table
-Brand	Total Sales	Total Quantity	Transactions
-Xiaomi	₹143.75M	3,664 units	743
-Vivo	₹150.08M	3,801 units	766
-OnePlus	₹153.72M	3,830 units	768
-Samsung	₹160.03M	3,923 units	775
-Apple	₹161.62M	3,932 units	783
 
 🧰 Tools & Technologies
 Power BI for data modeling, DAX calculations, and visualizations
@@ -56,24 +49,14 @@ Finance for analyzing revenue trends and transaction metrics
 
 Executives for high-level KPI tracking
 
-📂 File Structure
-bash
-Copy
-Edit
-📁 Motorola-Sales-Dashboard/
-├── README.md
-├── Motorola_Sales_Report.pbix   # Power BI report file
-├── data/
-│   └── sales_data.csv           # Sample data used for visuals (if available)
-└── images/
-    └── dashboard_screenshot.png
+
 📝 Notes
 Data shown is for demo purposes only.
 
 Dashboard includes slicers for filtering by brand, mobile model, payment method, and day name.
 
 Screenshot / Demos
-show what the dashbord  looks like.
-Example - https://github.com/arpitsingh1181/Mobile-sales-Dashboard/blob/main/Screenshot%202025-07-15%20103220.png
+show what the dashbord  looks like. - ![Alt txt](https://github.com/arpitsingh1181/Mobile-sales-Dashboard/blob/main/Screenshot%202025-07-15%20103220.png)
+Example - ![Dashboard Preview](https://github.com/arpitsingh1181/Mobile-sales-Dashboard/blob/main/Screenshot%202025-07-15%20103220.png)
 📬 Feedback or Contributions
 Feel free to raise issues or contribute enhancements via pull requests!
