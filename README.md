@@ -7,7 +7,7 @@ The dashboard provides a centralized and interactive visualization of key busine
 
 🧩 Key Features
 🟦 KPIs
-Total Sales: ₹769M
+Total Sales: ₹769M 
 
 Total Quantity Sold: 19K units
 
