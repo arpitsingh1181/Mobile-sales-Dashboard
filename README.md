@@ -1,3 +1,5 @@
+📊 Motorola Sales Analytics Dashboard
+
 This project contains a comprehensive Sales Analytics Dashboard built in Microsoft Power BI for Motorola and its competing brands. The dashboard helps visualize sales, customer behavior, and performance metrics across multiple dimensions.
 
 📌 Dashboard Overview
